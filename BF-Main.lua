@@ -78,7 +78,7 @@ end
 local placeId = game.PlaceId
 local World1 = game.PlaceId == 2753915549 or 85211729168715 or 73902483975735
 local World2 = game.PlaceId == 4442272183 or 79091703265657 or 73902483975735
-local World3 = game.PlaceId == 7449423635 or 85211729168715 or 73902483975735
+local World3 = game.PlaceId == 7449423635 or 100117331123089 or 73902483975735
 local Sea = World1 or World2 or World3
 
 -- GAME REFERENCES (giữ từ script cũ)
