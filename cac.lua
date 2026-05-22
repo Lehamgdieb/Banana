@@ -2639,7 +2639,7 @@ local function performClick()
     getgenv().AutoClickShootSettings.LastClickTime = currentTime
 end
 
-local bearlib = loadstring(game:HttpGet("https://cdn.jsdelivr.net/gh/Myvkhuy/BearLibrary@Bearlib/V8.1.lua"))()
+local bearlib = loadstring(game:HttpGet("https://raw.githack.com/Myvkhuy/BearLibrary/Bearlib/V8.1.lua"))()
 local Window = bearlib:MakeWindow({
     Title = "Mimi Hub | Farm",
     SubTitle = "by Quang Huy",
